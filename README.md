@@ -19,7 +19,7 @@ Simulador de substituição de páginas simples feito em python para fins de apr
     python src/page-replacement.py
 ```
 
-##Links
+## Links
 
 [Arquivo .gitignore para IDEs Jetbrains](https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore)
 
