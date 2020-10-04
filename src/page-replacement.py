@@ -1,3 +1,6 @@
+# Feito por Otavio Ramos
+# Trabalho para a disciplina de Sistema Operacionais Abertos - Universidade Paulista (UNIP)
+
 sequencia_referencia = [0, 3, 5, 6, 7, 8, 8, 9, 4, 1, 2, 4, 5,
                         6, 7, 9, 0, 0, 1, 2, 3, 4, 5, 6, 6, 8,
                         1, 1, 2, 5, 1, 9, 0, 9, 9, 4, 5, 9, 1, 3]
